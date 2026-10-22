@@ -1,0 +1,12 @@
+/Users/shaurya/IdeaProjects/MiniShop/src/main/java/com/minishop/AddToCartServlet.java
+/Users/shaurya/IdeaProjects/MiniShop/src/main/java/com/minishop/CartItem.java
+/Users/shaurya/IdeaProjects/MiniShop/src/main/java/com/minishop/CartServlet.java
+/Users/shaurya/IdeaProjects/MiniShop/src/main/java/com/minishop/DBConnection.java
+/Users/shaurya/IdeaProjects/MiniShop/src/main/java/com/minishop/DatabaseTest.java
+/Users/shaurya/IdeaProjects/MiniShop/src/main/java/com/minishop/Main.java
+/Users/shaurya/IdeaProjects/MiniShop/src/main/java/com/minishop/PlaceOrderServlet.java
+/Users/shaurya/IdeaProjects/MiniShop/src/main/java/com/minishop/Product.java
+/Users/shaurya/IdeaProjects/MiniShop/src/main/java/com/minishop/ProductDAO.java
+/Users/shaurya/IdeaProjects/MiniShop/src/main/java/com/minishop/ProductServlet.java
+/Users/shaurya/IdeaProjects/MiniShop/src/main/java/com/minishop/RemoveFromCartServlet.java
+/Users/shaurya/IdeaProjects/MiniShop/src/main/java/com/minishop/UpdateCartServlet.java
